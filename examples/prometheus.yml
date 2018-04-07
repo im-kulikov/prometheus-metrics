@@ -24,4 +24,4 @@ scrape_configs:
   scheme: http
   static_configs:
   - targets:
-    - PROMETHEUS_METRICS_BIN
+    - PROMETHEUS_METRICS_BIND

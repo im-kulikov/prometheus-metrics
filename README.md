@@ -14,4 +14,4 @@ prometheus.Serve(nil)
 
 See examples for setup [Prometheus and Grafana](./examples)
 
-> INFO: replace `PROMETHEUS_METRICS_BIN` with your `PROMETHEUS` env
+> INFO: replace `PROMETHEUS_METRICS_BIND` with your `PROMETHEUS` env
